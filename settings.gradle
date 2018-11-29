@@ -1,0 +1,1 @@
+include ':app', ':lib-core:finger', ':lib-core:upgrade', ':lib-core:web', ':lib-core:zxing'
